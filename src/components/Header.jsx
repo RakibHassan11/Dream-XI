@@ -1,4 +1,5 @@
 
+// eslint-disable-next-line react/prop-types
 const Header = ({coins}) => {
     return (
     <div className="navbar py-5 lg:py-7 container mx-auto w-11/12 lg:w-10/12 sticky top-0 z-10 backdrop-blur bg-white/60 ">

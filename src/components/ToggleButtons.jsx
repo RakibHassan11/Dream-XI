@@ -1,5 +1,4 @@
-import React from 'react';
-
+/* eslint-disable react/prop-types */
 const ToggleButtons = ({ view, setView, selectedCount }) => {
   return (
     <div className="flex ">

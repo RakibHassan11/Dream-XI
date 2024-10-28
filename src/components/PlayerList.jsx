@@ -1,4 +1,4 @@
-import React from 'react';
+/* eslint-disable react/prop-types */
 import PlayerCard from './PlayerCard';
 
 const PlayerList = ({ players, onPlayerAction, actionLabel }) => {

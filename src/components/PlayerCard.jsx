@@ -1,5 +1,4 @@
-import React from 'react';
-
+/* eslint-disable react/prop-types */
 const PlayerCard = ({ player, onPlayerAction, actionLabel }) => {
   return (
     <div className="card p-4 border rounded-lg shadow-sm">
