@@ -1,5 +1,5 @@
 
-const Header = () => {
+const Header = ({coins}) => {
     return (
     <div className="navbar py-5 lg:py-7 container mx-auto w-11/12 lg:w-10/12 sticky top-0 z-10 backdrop-blur bg-white/60 ">
 
@@ -22,20 +22,11 @@ const Header = () => {
 
             </ul>
             <div className="flex gap-2 px-4 py-2 rounded-lg border border-gray-200 shadow-sm">
-                <p id="headerAmount" className="lg:text-2xl  whitespace-nowrap ">0 Coin </p>
-                <img src="https://i.ibb.co.com/JFP8jmj/coin.png" />
+                <p className=" font-bold  whitespace-nowrap ">{coins}</p>
+                <img className="h-6" src="https://i.ibb.co.com/JFP8jmj/coin.png" />
                 
             </div>
         </div>
-
-        
-        {/* <div className="navbar-end gap-6">
-        <div className="join">
-        <input className="input input-bordered join-item rounded-3xl " placeholder="Search" />
-        </div>
-            <button className="w-10 h-10 rounded-full bg-gray-200 flex items-center justify-center ">
-                    <i className="fa-regular fa-user"></i></button>        
-        </div> */}
     </div>
     );
 };

@@ -1,4 +1,4 @@
-const Banner = () => {
+const Banner = ({handleIncrementsCoin}) => {
     return (
       <div
         className="bg-cover bg-no-repeat hero mx-auto w-11/12 lg:w-10/12 bg-opacity-35 rounded-2xl"
@@ -16,7 +16,9 @@ const Banner = () => {
             <p className="mb-5 text-lg lg:text-xl text-gray-400">
             Beyond Boundaries Beyond Limits
             </p>
-            <button className="btn bg-yellow-300 rounded-xl mb-10 px-8 text-xl text-gray-800  font-medium border-none hover:bg-green-500 transition-colors">
+            <button
+             onClick={handleIncrementsCoin}
+             className="btn bg-yellow-300 rounded-xl mb-10 px-8 text-xl text-gray-800  font-medium border-none hover:bg-yellow-200 transition-colors">
             Claim Free Credit
             </button>
           </div>
