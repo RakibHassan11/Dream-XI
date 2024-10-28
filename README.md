@@ -18,5 +18,5 @@ DREAM 11 is a cricket team selection application that allows users to assemble t
 To get started with BPL-DREAM 11, clone the repository and install the dependencies visit live site:
 
 https://github.com/programming-hero-web-course1/b10a7-dream-11-RakibHassan11.git
-cd BPL-DREAM-11
-npm install
+
+rakib-dream-11.surge.sh
