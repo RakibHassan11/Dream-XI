@@ -14,11 +14,11 @@ DREAM 11 is a cricket team selection application that allows users to assemble t
 2. **Team Management**: Users can view their selected players, remove players from their team, and ensure they stay within the selection limit of 6 players.
 3. **User Notifications**: The app provides real-time notifications using toast messages to inform users about actions like adding or removing players, and when they exceed the player selection limit or have insufficient coins.
 
-## Getting Started
-To get started with BPL-DREAM 11, clone the repository and install the dependencies visit live site:
+## Live Website Link
 
-https://github.com/programming-hero-web-course1/b10a7-dream-11-RakibHassan11.git
+You can check out the live website here:  
+[Live Website Link](https://rakib-dream-11.surge.sh/)
 
-rakib-dream-11.surge.sh
-# Dream-XI
-# Dream-XI
+## Requirement Document Link
+
+[GitRepository](https://github.com/RakibHassan11/Dream-XI.git)

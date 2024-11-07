@@ -1,0 +1,103 @@
+[
+    {
+      "playerId": "1",
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/SwgbJfC/Virat-Kohli-Moment-HD-Image-9.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 2000000
+    },
+    {
+      "playerId": "2",
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/pzhJjzp/portrait-person-playing-cricket-sport7.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 1800000
+    },
+    {
+      "playerId": "3",
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/3yM427X/portrait-person-playing-cricket-sport6.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 2500000
+    },
+    {
+      "playerId": "4",
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/SRcMvkw/cricket-match-with-player5.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 2200000
+    },
+    {
+      "playerId": "5",
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://i.ibb.co.com/3dsLkdn/cricket-match-with-player4.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 1600000
+    },
+    {
+      "playerId": "6",
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/pL6Wwy4/cricket-match-with-player3.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 1900000
+    },
+    {
+      "playerId": "7",
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/y4sq6VP/cricket-match-with-player2.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 2100000
+    },
+    {
+      "playerId": "8",
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/7nDNRsr/cricket-match-with-player.jpg",
+      "role": "Wicketkeeper-Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "N/A",
+      "biddingPrice": 1700000
+    },
+    {
+      "playerId": "9",
+      "name": "Mahmudullah Riyad",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/m9bKVL3/riyad-30-09-8.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 2300000
+    },
+    {
+      "playerId": "10",
+      "name": "Jasprit Bumrah",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/Cwc7FFr/Jasprit-Bumrah-india-england-test-10.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 2400000
+    }
+  ]
+  
